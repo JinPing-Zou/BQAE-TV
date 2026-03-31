@@ -15,4 +15,4 @@ For more details about the methodology and experimental results, please refer to
 **A Bayesian deep prior-based quaternion matrix completion for color image inpainting**  
 
 # 🔔 Note
-The input to a quaternion deep model can usually be constructed by appending an all-zero real part. However, in our recent investigation, we have considered an alternative strategy, namely, setting the first layer as a conventional convolution operation.
+The input to a quaternion deep model is usually constructed by appending an all-zero real part. In our recent investigation, however, we considered an alternative strategy that uses a conventional convolution operation in the first layer.
