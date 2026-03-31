@@ -1,5 +1,5 @@
 # 🍀 BQAE-TV
-QMFR is a continuous function-based quaternion matrix factorization method for fast and high-quality color image recovery.
+BQAE-TV is a Bayesian quaternion deep image inpainting model for recovering structurally coherent and visually natural color images from a single corrupted input.
 
 # 🔧 Installation
 * Install [Python 3.7](https://www.python.org/downloads/) on Linux or Windows.
