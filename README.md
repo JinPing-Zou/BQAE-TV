@@ -6,7 +6,7 @@ BQAE-TV is a Bayesian quaternion deep image inpainting model for recovering stru
 * This project is implemented based on TensorFlow 2.x, so please make sure to install a compatible TensorFlow 2.x version in your environment.
 * If you want to run on a GPU, you will need to install [CUDA](https://developer.nvidia.com/cuda-downloads) and [cuDNN](https://developer.nvidia.com/cudnn). Please refer to their official websites for the corresponding compatible versions.
 
-# 🚂 Running QMFR
+# 🚂 Running BQAE-TV
 Simply open BQAE-TV.py and run it to achieve the desired color image recovery performance.
 
 # 📖 Article
